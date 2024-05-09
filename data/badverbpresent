@@ -1,0 +1,14 @@
+breaks %feature
+breaks %mod
+causes %badthing
+causes explosions
+corrupts chunks
+crashes
+kills the framerate
+kills the tickrate
+makes the game too hard
+spams the log
+steals logins
+collects data
+requires signing a EULA
+requires OpenGL 4.6
